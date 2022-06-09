@@ -23,3 +23,4 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ```
 
 ![](https://github.com/OTLanguage/.github/blob/main/banner.png)
+![](https://github.com/OTLanguage/.github/blob/main/image/music/music-banner.png)
