@@ -35,6 +35,3 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-plastic.svg)
 ![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-social.svg)
 ```
-
-![](https://github.com/OTLanguage/.github/blob/main/banner.png)
-![](https://github.com/OTLanguage/.github/blob/main/image/music/music-banner.png)
