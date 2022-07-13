@@ -13,6 +13,10 @@ otl [파일 이름]
 ```
 
 # OTLanguage 배지 등록하는 법
+
+<details>
+    <summary>OTLanguage</summary>
+    
 [![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat.svg)](https://github.com/OTLanguage) flat <br>
 [![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat-square.svg)](https://github.com/OTLanguage) flat-square <br>
 [![](https://github.com/OTLanguage/.github/blob/main/image/OTLANGUAGE-for-the-badge.svg)](https://github.com/OTLanguage) for-the-badge <br>
@@ -35,3 +39,65 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-plastic.svg)
 ![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-social.svg)
 ```
+
+</details>
+
+---
+
+<details>
+    <summary>OTLanguage Music</summary>
+    
+[![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg)](https://github.com/OTLanguage) flat <br>
+[![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat-square.svg)](https://github.com/OTLanguage) flat-square <br>
+[![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-for-the-badge.svg)](https://github.com/OTLanguage) for-the-badge <br>
+[![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-plastic.svg)](https://github.com/OTLanguage) plastic <br>
+[![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-social.svg)](https://github.com/OTLanguage) social <br>
+
+HTML - style:flat,flat-square,for-the-badge,plastic,social
+```HTML
+<img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat-square.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-for-the-badge.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-plastic.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-social.svg"/>
+```
+MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
+```MARKDOWN
+![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg)
+![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat-square.svg)
+![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-for-the-badge.svg)
+![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-plastic.svg)
+![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-social.svg)
+```
+
+</details>
+
+---
+
+<details>
+    <summary>Poison</summary>
+        
+[![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg)](https://github.com/OTLanguage) flat <br>
+[![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat-square.svg)](https://github.com/OTLanguage) flat-square <br>
+[![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-for-the-badge.svg)](https://github.com/OTLanguage) for-the-badge <br>
+[![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-plastic.svg)](https://github.com/OTLanguage) plastic <br>
+[![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-social.svg)](https://github.com/OTLanguage) social <br>
+
+HTML - style:flat,flat-square,for-the-badge,plastic,social
+```HTML
+<img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat-square.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-for-the-badge.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-plastic.svg"/>
+<img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-social.svg"/>
+```
+MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
+```MARKDOWN
+![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg)
+![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat-square.svg)
+![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-for-the-badge.svg)
+![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-plastic.svg)
+![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-social.svg)
+```
+
+</details>
