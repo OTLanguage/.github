@@ -1,3 +1,17 @@
+# 다운로드
+해당 글자를 복사하여 커맨드 창에 입력하시면 다운로드가 자동으로 이루어집니다.
+```shell
+curl https://raw.githubusercontent.com/OTLanguage/.github/main/otlmake.sh | sh
+```
+# 실행
+파일이 존재하는 위치에서 파일 이름까지 치면 파일을 실행할 수 있습니다. 그냥 otl만 입력하시면 1줄씩 입력하는 방식으로 동작을 합니다.
+```
+otl
+```
+```
+otl [파일 이름]
+```
+
 # OTLanguage 배지 등록하는 법
 [![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat.svg)](https://github.com/OTLanguage) flat <br>
 [![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat-square.svg)](https://github.com/OTLanguage) flat-square <br>
