@@ -5,14 +5,15 @@ curl https://raw.githubusercontent.com/OTLanguage/.github/main/otlmake.sh | sh
 ```
 # 실행
 파일이 존재하는 위치에서 파일 이름까지 치면 파일을 실행할 수 있습니다. 그냥 otl만 입력하시면 1줄씩 입력하는 방식으로 동작을 합니다.
-```
+```shell
 otl
 ```
-```
+```shell
 otl [파일 이름]
 ```
 
 # OTLanguage 배지 등록하는 법
+
 
 <details>
     <summary>OTLanguage</summary>
@@ -40,9 +41,9 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ![](https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-social.svg)
 ```
 
-</details>
-
 ---
+
+</details>
 
 <details>
     <summary>OTLanguage Music</summary>
@@ -70,9 +71,9 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ![](https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-social.svg)
 ```
 
-</details>
-
 ---
+
+</details>
 
 <details>
     <summary>Poison</summary>
@@ -99,5 +100,7 @@ MARKDOWN - style:flat,flat-square,for-the-badge,plastic,social
 ![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-plastic.svg)
 ![](https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-social.svg)
 ```
+
+---
 
 </details>
