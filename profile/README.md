@@ -13,7 +13,7 @@ otl [파일 이름]
 ```
 
 # OTLanguage 배지 등록하는 법
-
+###### (자세히 보기 - 누르면 펼쳐집니다.)
 
 <details>
     <summary>OTLanguage</summary>
