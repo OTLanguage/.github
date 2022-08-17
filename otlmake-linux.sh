@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install openjdk-17-jdk
+
 cd ${HOME}
 rm -rf .otl
 git clone https://github.com/OTLanguage/.otl.git
