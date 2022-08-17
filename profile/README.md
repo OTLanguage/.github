@@ -1,5 +1,6 @@
 # 다운로드
-해당 글자를 복사하여 커맨드 창에 입력하시면 다운로드가 자동으로 이루어집니다.
+해당 글자를 복사하여 커맨드 창에 입력하시면 다운로드가 자동으로 이루어집니다.<br>
+MacOS
 ```shell
 curl https://raw.githubusercontent.com/OTLanguage/.github/main/otlmake.sh | sh
 ```
