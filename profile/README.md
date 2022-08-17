@@ -4,6 +4,11 @@ MacOS
 ```shell
 curl https://raw.githubusercontent.com/OTLanguage/.github/main/otlmake.sh | sh
 ```
+Linux
+```shell
+curl https://raw.githubusercontent.com/OTLanguage/.github/main/otlmake-linux.sh | sh
+```
+
 # 실행
 파일이 존재하는 위치에서 파일 이름까지 치면 파일을 실행할 수 있습니다. 그냥 otl만 입력하시면 1줄씩 입력하는 방식으로 동작을 합니다.
 ```shell
