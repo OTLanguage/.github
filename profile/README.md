@@ -2,11 +2,11 @@
 해당 글자를 복사하여 커맨드 창에 입력하시면 다운로드가 자동으로 이루어집니다.<br><br>
 MacOS
 ```shell
-https://raw.githubusercontent.com/OTLanguage/download/main/mac.sh
+curl https://raw.githubusercontent.com/OTLanguage/download/main/mac.sh | sh
 ```
 Linux
 ```shell
-https://raw.githubusercontent.com/OTLanguage/download/main/linux.sh
+curl https://raw.githubusercontent.com/OTLanguage/download/main/linux.sh | sh
 ```
 
 # 실행
