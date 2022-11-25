@@ -1,3 +1,10 @@
+# 제작자
+<div align=left>
+  <a href="https://github.com/PersesTitan">
+  <img src="https://avatars.githubusercontent.com/PersesTitan" width="100px;" alt=""/>
+  <br><b align=center>PersesTitan</b></a>    
+</div>
+
 # 다운로드
 해당 글자를 복사하여 커맨드 창에 입력하시면 다운로드가 자동으로 이루어집니다.<br><br>
 MacOS
