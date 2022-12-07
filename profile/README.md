@@ -15,6 +15,10 @@ Linux
 ```shell
 curl https://raw.githubusercontent.com/OTLanguage/download/main/linux.sh | sh
 ```
+Window <br>
+프로토 타입 버전
+[다운로드 링크](https://github.com/OTLanguage/OTLanguage-window-install/archive/refs/heads/main.zip)
+
 
 # 실행
 파일이 존재하는 위치에서 파일 이름까지 치면 파일을 실행할 수 있습니다. 그냥 otl만 입력하시면 1줄씩 입력하는 방식으로 동작을 합니다.
