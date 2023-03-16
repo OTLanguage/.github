@@ -12,14 +12,6 @@ MacOS & Linux
 curl https://raw.githubusercontent.com/OTLanguage/download/main/install.sh | sh
 ```
 
-MacOS
-```shell
-curl https://raw.githubusercontent.com/OTLanguage/download/main/mac.sh | sh
-```
-Linux
-```shell
-curl https://raw.githubusercontent.com/OTLanguage/download/main/linux.sh | sh
-```
 Window <br>
 프로토 타입 버전
 [다운로드 링크](https://github.com/OTLanguage/OTLanguage-window-install/archive/refs/heads/main.zip)
